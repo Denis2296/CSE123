@@ -1,17 +1,17 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/LwbRFhI0uA4
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/e/2PACX-1vQEx3Brs0oIa-2GaaMU4Eu37yBR1Y31ev2CD39zQBVRzf_ME02A54o2BD4fTmMk2lIj6O-OefTrb1hH/pub?start=true&loop=true&delayms=3000
 
 Paper title:
-NLP using ANN
+The Long-Term Effect of Blue-Light Blocking Spectacle Lenses on Adults’ Contrast Perception
 
 Link to the paper:
-https://ieeexplore......
+https://doi.org/10.3389/fnins.2022.898489
 
 Group Number:
-0
+05
 
 Individual Submitter:
-12345678 Name A
+21301742 AJANI DENISH
